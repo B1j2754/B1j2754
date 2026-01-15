@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b1j2754&label=Profile%20views&color=0e75b6&style=flat" alt="b1j2754" /> </p>
 
 - 🧠 I’m building **Katnip** — a programming language & tooling ecosystem  
-  👉 \[Py] https://github.com/Katnip-org/Katnip
+  👉 \[Py] https://github.com/Katnip-org/Katnip \
   👉 \[Ts] https://github.com/Katnip-org/Katnip/tree/next-gen
 
 - 🔧 I enjoy **language design, compilers, tooling, NNs, and creative systems**
