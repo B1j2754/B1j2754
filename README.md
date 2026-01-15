@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm B1j2754</h1>
-<h3 align="center">A passionate frontend/full stack developer</h3>
+<h3 align="center">Builder • Language nerd • Full-stack tinkerer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b1j2754&label=Profile%20views&color=0e75b6&style=flat" alt="b1j2754" /> </p>
 
-- 🔭 I’m currently working on [Katnip](https://github.com/Katnip-org/Katnip)
+- 🧠 I’m building **Katnip** — a programming language & tooling ecosystem  
+  👉 \[Py] https://github.com/Katnip-org/Katnip
+  👉 \[Ts] https://github.com/Katnip-org/Katnip/tree/next-gen
 
-- 🌱 I’m currently learning **Typescript, Svelte**
+- 🔧 I enjoy **language design, compilers, tooling, NNs, and creative systems**
 
-- 👯 I’m looking to collaborate on [Katnip rewrite](https://github.com/Katnip-org/Katnip)
+- 🌱 I’m currently learning **Typescript, Svelte** (and getting deeper into web tooling)
 
-- 💬 Ask me about **Python, Java**
+- 👯 I’m looking to collaborate on [Katnip rewrite](https://github.com/Katnip-org/Katnip), or any ML projects
 
-- 📫 How to reach me **b1j2754@katnip.org**
+- 💬 Ask me about **Python, Java, Foundational and Practical Neural-Network creation, language internals, or building weird projects**
+
+- 📫 How to reach me **benclarkbobb@gmail.com**
 
 - 🙂 Pronouns **He/Him**
 
