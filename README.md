@@ -1,31 +1,51 @@
 <h1 align="center">Hi, I'm B1j2754</h1>
-<h3 align="center">Builder • Language nerd • Full-stack tinkerer</h3>
+<h3 align="center">Builder • Language nerd • Full-stack dev</h3>
+<div align="center"><strong>I build systems, languages, compilers, and robots.</strong></div>
+
+---
+
+High school student in the Northeast. Programming lead for my school's FRC chapter. Most of what's on this page started as "but... how does that *actually* work?" and spiraled from there.
+
+---
+
+## What I'm building
+
+### 🐱 [Katnip](https://github.com/Katnip-org/Katnip) ⁘ A real programming language that compiles to Scratch
+Static typing, an AST-level macro system, a Pratt parser, and an IR that works around the fact that
+Scratch has no pointers and no stack. Published as [`@katnip-org/compiler`](https://www.npmjs.com/package/@katnip-org/compiler)
+with a VS Code extension. Currently rewriting the IR layer by hand and pushing toward end-to-end codegen.
+
+### 🦖 [G-Rex](https://github.com/B1j2754/g-rex) ⁘ Regex you can actually read
+A small language whose constructs compile down to a regex string, because regex can be daunting. G-Rex has first class testing, comments, and readability, while compiling to regex to keep the speed. Bun + TypeScript monorepo split into core / CLI / editor extension.
+
+### ⭐ [Polaris](https://github.com/B1j2754/Polaris) ⁘ An astronomy app
+Find and identify what's overhead. Lightweight, local, all yours. Heading for the App Store and the Congressional App Challenge.
+
+---
+
+## Where else my code lives
+| | |
+|---|---|
+| **GitHub** | you're here 😜 [@B1j2754](https://github.com/B1j2754) ⁘ Main projects and profile
+| **Codeberg** | [@b1j2754](https://codeberg.org/b1j2754) ⁘ mirrors and smaller experiments |
+| **git.rotur.dev** | [@b1j2754](https://git.rotur.dev/b1j2754) ⁘ rotur ecosystem work, on a friend's self-hosted forge |
+
+---
+
+## Currently learning
+
+Neural networks from the math up. Attention, spiking neurons, and what what separates a brain from a transformer. Also Svelte and React-Native.
+
+## Off the keyboard
+
+Run a Minecraft SMP on a Raspberry Pi for about 15 friends.
+Build small hardware projects when I want a break from software.
+
+---
+
+## How to reach me
+
+* b1j2754@gmail.com
+* `b1j2754` on originChats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b1j2754&label=Profile%20views&color=0e75b6&style=flat" alt="b1j2754" /> </p>
-
-- 🧠 I’m building **Katnip** — a programming language & tooling ecosystem  
-  👉 \[Py] https://github.com/Katnip-org/Katnip \
-  👉 \[Ts] https://github.com/Katnip-org/Katnip/tree/next-gen
-
-- 🔧 I enjoy **language design, compilers, tooling, NNs, and creative systems**
-
-- 🌱 I’m currently learning **Typescript, Svelte** (and getting deeper into web tooling)
-
-- 👯 I’m looking to collaborate on [Katnip rewrite](https://github.com/Katnip-org/Katnip), or any ML projects
-
-- 💬 Ask me about **Python, Java, Foundational and Practical Neural-Network creation, language internals, or building weird projects**
-
-- 📫 How to reach me **benclarkbobb@gmail.com**
-
-- 🙂 Pronouns **He/Him**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/b1j2754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="b1j2754" height="30" width="40" /></a>
-<a href="https://medium.com/@b1j2754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@b1j2754" height="30" width="40" /></a>
-</p>
-
-https://git.rotur.dev/b1j2754
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
